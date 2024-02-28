@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_tree_is_root - checks if node is a root
  * @node: pointer to node in check
